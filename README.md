@@ -1,13 +1,9 @@
-## Running React on Repl.it
+## LIVE DEMO: https://Metabattle.yoissilver.repl.co
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+hosted on replit, built using solidity and reacts.
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+## A simple NFT boss battle game
 
-Using the two in conjunction is one of the fastest ways to build a web app.
-
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
-
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
+## Features
+Can attack the boss, boss attacks back, your minted nft character dies after your health reaches 0, you will need a bunch of people to team up on the boss.
+that was all. 
